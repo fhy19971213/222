@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>注册</title>
+	<meta charset="UTF-8"/>
+</head>
+<body>
+<table border="1" align="center" cellpadding="1" cellspacing="1" width="420" height="400">
+<from>
+	<tr>
+		<td>用户名：</td>
+		<td><input type="text" name="name_1"></td>
+	</tr>
+	<tr>
+		<td>密码：</td>
+		<td><input type="password" name=""></td>
+	</tr>
+	<tr>
+		<td>确认密码：</td>
+		<td><input type="password" name=""></td>
+	</tr>
+	<tr>
+		<td>性别：</td>
+		<td> 
+			<input type="radio" name="sex" checked="true">男
+			<input type="radio" name="sex">女<br>
+		</td>
+	</tr>
+	<tr>
+		<td>生日：</td>
+		<td>
+		<select name="birthday_century">
+			<option>公历</option>
+			<option>阴历</option>		
+		</select>	
+		<select name="birthday_year">
+			<option>年</option>
+			<option>1999</option>
+			<option>2000</option>
+		</select>	
+		<select name="birthday_moon">
+			<option>月</option>
+			<option>12</option>
+			<option>11</option>
+		</select>
+		<select name="birthday_day">
+			<option>日</option>
+			<option>1</option>
+			<option>2</option>
+		</select>		
+		</td>
+	</tr>
+	<tr>
+		<td>所在地：</td>
+		<td>
+			<select name="address_country">
+			<option>中国</option>
+			<option>日本</option>
+			<option>美国</option>
+		</select>	
+		<select name="address_provinces">
+			<option>河北</option>
+			<option>北京</option>
+		</select>	
+		<select name="address_city">
+			<option>石家庄</option>
+			<option>邢台</option>
+		</select>	
+		</td>
+	</tr>
+	<tr>
+		<td>验证码：</td>
+		<td><input type="" name=""><input type="image" src="images\yanzhengma.jpg" width="100" height="20"></td>
+	</tr>
+	<tr>
+		<td>证件类型：</td>
+		<td><select>
+			<option>身份证</option>
+			<option>学生证</option>
+		</select></td>
+	</tr>
+	<tr>
+		<td>证件号：</td>
+		<td><input type="text" name=""></td>
+	</tr>
+	<tr>
+		<td>爱好：</td>
+		<td><select>
+			<input type="checkbox" name="like" disabled="0">音乐
+			<input type="checkbox" name="like">读书
+			<input type="checkbox" name="like">跳舞
+			<input type="checkbox" name="like">下棋
+			<input type="checkbox" name="like">其他
+		</select></td>
+	</tr>
+	<tr>
+		<td>说明:</td>
+		<td>
+			<textarea rows="18" cols="40">
+            </textarea>   
+		</td>
+	</tr>
+	<tr>
+		<td>上传头像</td>
+		<td>
+			<input type="file">
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" align="center">
+			 <input type="submit" name="" >
+              <input type="reset" name="" >
+              <input type="button" name="" value="按钮">
+		</td>		
+	</tr>
+</from>
+</table>
+</body>
+</html>
