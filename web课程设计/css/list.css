@@ -1,0 +1,41 @@
+*{padding-bottom: 0px;margin: 0px;}
+body{font: 12px/24px "宋体";color:#333;}
+ul{list-style:none;}
+a{text-decoration: none;color:#333;}
+.clear{clear:both;}
+.logo{width: 1000px;margin: 0px auto;height:132px;}
+.logo .lg{width: 125px; float: left;}
+.search{background-image:;margin:50px; width:196px;height: 26px;border: 1px solid silver;
+float: right;}
+.search_key{width:150px;height: 25px;border:none;}
+.submit{width:40px;height:25px;background-image:url("../images/so.jpg");}
+.menu{width: 100%;height: 40px;background-color:#269f7d;clear:left;}
+.menu ul{width: 1000px;margin:0px auto;}
+.menu ul li{float:left;width:200px;line-height: 40px}
+.menu a{font-size:16px;color:#fff;}
+.menu .denglu{display: inline-block;font-size:16px;color:#fff;float:right;width:100px;line-height:40px}
+.banner img{width:100%;height: auto;}
+.main{width: 1000px;margin: 0px auto;}
+.m_left{width:748px;height:298px;float:left;border:1px solid #ccc }
+.m_right{width:248px;height:298px;float: left;border:1px solid #ccc;}
+.list{width: 1000px;margin:0px auto;}
+.list_img{width:300px;height:400px;float: left;margin: 10px;border:1px solid #ccc;}
+.footer{height: 100px;background:#666;color:#aaa;text-align: center;}
+.footer .ent a{color:#000;}
+
+.m_left ul{
+	line-height:30px;
+	height:30px;
+	font-size:14px;
+	list-style: url("../images/yinyuetb.png");
+	float:left;
+}
+.m_left span{float:right;color:#B22222;}
+
+.ima2 ul{
+	line-height:30px;
+	height: 30px;
+	list-style:url("../images/lbt.png");
+	float: left;
+}
+.ima2 a:hover{text-decoration:underline;color:#B2DFEE;}

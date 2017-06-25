@@ -1,4 +1,4 @@
-*{
+﻿*{
 	margin:0 auto;
 	padding:0;
 	border:0;
@@ -7,7 +7,7 @@
 	color:#522a06;
 }
 body{
-	background:url(../images/bodybg.gif);
+	background:url(../images/body.gif);
 }
 li{
 
@@ -23,7 +23,7 @@ a:hover{
 	text-decoration:underline;
 }
 .dingbukuang{
-	background:url(../images/bg.gif);
+	background:url(../images/bg.png);
 	background-position: center top;
 	height:205px;
 	margin:0 auto;

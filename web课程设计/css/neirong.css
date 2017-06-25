@@ -1,0 +1,59 @@
+*{padding-bottom: 0px;margin: 0px;}
+body{font: 12px/24px "宋体";color:#333;}
+ul{list-style:none;}
+a{text-decoration: none;color:#333;}
+.hezi{
+	width:300px;height:300px;float: left;margin: 10px;border:1px solid #ccc; 
+}
+}
+.main{
+	clear: both;
+	width: 1000px；
+	margin: 0px auto;
+	border: 1px solid #f00;
+}
+
+
+.weizhi{
+	width:700px;
+	height:40px;
+	font-size:15px;
+}
+.weizhi p{
+	padding:20px 0px 0px 20px;
+}
+.dabiaoti{
+	margin:20px 0 0 0;
+	text-align: center;
+	font-weight: bolder;
+	font-size:20px;
+	height:40px;
+	border-bottom:1px solid #c9baa5;
+}
+.riqi{
+	height:40px;
+	width:700px;
+}
+.riqi p{
+	text-align: center;
+	margin-top: 5px;
+	font-size:12px;
+	color:#757575;
+}
+.zhengwen p{
+	line-height: 28px;
+	padding:10px 10px 10px 10px;
+	font size:14px;
+	text-indent: 2em;
+	text-align: left;
+	border-bottom:1px solid #c9baa5;
+}
+.zhengwen h1{
+
+	text-align: center;
+
+}
+.zhengwendibu{
+	height:40px;
+	width:700px;
+}

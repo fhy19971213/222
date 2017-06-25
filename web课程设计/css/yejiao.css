@@ -1,0 +1,25 @@
+.yejiaokuang{
+  width:100%；
+  padding-top: 10px;
+  clear:both;
+  background:url(../image/foot.jpg);
+  background-position: center;
+  height:auto;
+  text-align: center;
+
+}
+.youqinglianjiekuang p{
+  font-size:12px;
+  padding:40px 0 0 0;
+  text-align: center;
+  font-weight: bold;
+}
+.yejiaotupiankuang p{
+  text-align: center;
+  margin:5px;
+}
+.beiankuang p{
+  text-align: center;
+  font-size:12px;
+  color: #fff;
+}

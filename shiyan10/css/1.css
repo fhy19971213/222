@@ -1,4 +1,4 @@
-/*通用设置*/
+﻿/*通用设置*/
 *{
 	margin:0px auto;
 	padding:0px;
@@ -28,7 +28,7 @@ li{
 
 #header{
 	height: 205px;
-	background-image: url("../images/bg.gif");
+	background-image: url("../images/bg.jpg");
 	background-position:center;
 }
 #banner{
